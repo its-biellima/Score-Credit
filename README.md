@@ -26,4 +26,4 @@ Install Python if you haven’t already.
 Run the credit_analysis.py file to start the application.
 Let me know your thoughts or if you have any suggestions for improvements!
 
-#Python #Tkinter #CreditAnalysis #Finance #SoftwareDevelopment #OpenSource #GitHub
+#Python #Tkinter #CreditAnalysis #Finance #SoftwareDevelopment #OpenSource #GitHub #Myprojects
